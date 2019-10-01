@@ -1,5 +1,5 @@
 # Salesforce 2 Heroku Connect
-
+https://github.com/tompayne/sf2hc
 This tool allows automatic generation of a Heroku Connect mappings definition from querying a Salesforce Org.
 
 The tool creates a complete mapping of all Salesforce Objects that are replicatable using Heroku Connect and has existing rows in them.
